@@ -62,18 +62,18 @@ Make every edit that follows from steps 2–3. Touch only what's needed for this
 - Remove academic-specific settings if not needed (e.g. ORCID, Google Scholar)
 
 ### `index.qmd`
-- Update title and `open-graph.description`
+- Update `title` and `description` (top-level frontmatter keys)
 - Rewrite the page structure to match the site's purpose (homepage for a product is different from a personal bio)
 - Update or remove `about.links` as appropriate
 
 ### `single-page.qmd` (or rename/repurpose it)
-- Update `open-graph.description`
+- Update `description` (top-level frontmatter key)
 - Rewrite sections to fit the site's purpose (e.g. "About the Project" instead of "About Me")
 - If this page doesn't fit the site at all, note it for deletion
 
 ### `listing-default.qmd` and `listing-grid.qmd`
 - Rename titles and descriptions to fit (e.g. "Blog" → "Updates", "Projects" → "Case Studies")
-- Update `open-graph.description`
+- Update `description` (top-level frontmatter key)
 
 ### `styles/theme.scss`
 - Update primary color if user specified one (replace `#5654A2` throughout, including dark mode variant near `#7c7ac4`)

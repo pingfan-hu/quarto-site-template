@@ -1,7 +1,6 @@
 ---
 title: "Blog"
-open-graph:
-  description: "Blog posts and tutorials by Your Name"  # CHANGE
+description: "Blog posts and tutorials by Your Name"    # CHANGE
 listing:
   contents: listing-default  # CHANGE: rename to match your folder name (e.g. blog)
   sort: "date desc"

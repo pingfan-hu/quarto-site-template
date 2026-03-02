@@ -1,5 +1,6 @@
 ---
 title: "Your Name"                         # CHANGE
+description: "Short bio of Your Name"      # CHANGE
 image: images/homepage.png
 open-graph:
   image: images/card.png

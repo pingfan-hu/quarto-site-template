@@ -1,7 +1,6 @@
 ---
 title: "About"
-open-graph:
-  description: "Short bio and expertise of Your Name"   # CHANGE
+description: "Short bio and expertise of Your Name"     # CHANGE
 ---
 
 ![](/images/about.png){fig-align="center" width="800"}

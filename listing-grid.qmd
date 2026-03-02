@@ -1,7 +1,6 @@
 ---
 title: "Projects"
-open-graph:
-  description: "Research projects by Your Name"  # CHANGE
+description: "Research projects by Your Name"    # CHANGE
 toc: false
 listing:
   contents: listing-grid  # CHANGE: rename to match your folder name (e.g. projects)
