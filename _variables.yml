@@ -1,0 +1,11 @@
+# Reusable shortcodes — reference with {{< var name >}} in .qmd files
+quarto: "[Quarto](https://quarto.org/)"
+shiny: "[Shiny](https://shiny.posit.co/)"
+postgres: "[PostgreSQL](https://www.postgresql.org/)"
+rlink: "[{{< fa brands r-project >}}](https://CRAN.R-project.org/)"
+rnolink: "{{< fa brands r-project >}}"
+python: "[Python](https://www.python.org)"
+vscode: "[VSCode](https://code.visualstudio.com/)"
+
+# Add your own project/organization shortcodes below:
+# myorg: "[My Organization](https://myorg.com)"

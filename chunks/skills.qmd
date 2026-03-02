@@ -1,0 +1,4 @@
+- **Programming Languages**: Language1, Language2, Language3
+- **Web Development**: Tool1, Tool2, Tool3
+- **Data Science**: Skill1, Skill2, Skill3
+- **Other Tools**: Tool1, Tool2, Tool3

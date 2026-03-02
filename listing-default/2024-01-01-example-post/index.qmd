@@ -1,0 +1,19 @@
+---
+title: "Your Blog Post Title"
+image: "/listing-default/banners/2024-01-01-example-post.png"  # CHANGE: update folder name
+date: "2024-01-01"
+categories: [Category1, Category2]
+description: "A one-sentence description of this post."
+---
+
+## Introduction
+
+Write your blog post content here. You can use all standard Markdown and Quarto features.
+
+## Section Two
+
+More content here.
+
+## Conclusion
+
+Wrap up your post.

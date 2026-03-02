@@ -1,0 +1,27 @@
+---
+title: "Your Project Title"
+image: "/listing-grid/banners/2024-example-project.png"  # CHANGE: update folder name
+author:
+  - name: "[Your Name](https://yourdomain.com)"          # CHANGE
+  - name: "[Collaborator](https://collaborator.com)"     # CHANGE or remove
+date: "Jan, 2024"
+categories: [Category1, Category2]
+description: "A one-sentence description of this project."
+---
+
+::: {.d-flex .justify-content-center .flex-wrap .text-center}
+[<i class="bi bi-browser-safari"></i> Website](https://yourproject.com){.btn .btn-primary .m-1 style="width: 120px;"}
+[<i class="bi bi-github"></i> GitHub](https://github.com/yourgithub/yourproject){.btn .btn-primary .m-1 style="width: 120px;"}
+:::
+
+## Overview
+
+Describe your project here. What problem does it solve? What is the approach?
+
+## Methods
+
+Explain your methodology.
+
+## Results
+
+Summarize key findings or outputs.

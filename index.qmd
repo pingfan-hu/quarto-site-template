@@ -1,0 +1,36 @@
+---
+title: "Your Name"                         # CHANGE
+image: images/homepage.png
+open-graph:
+  image: images/card.png
+toc: false
+grid:
+  body-width: 1300px
+about:
+  template: trestles
+  image-width: 18em
+  image-shape: round
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/yourprofile/   # CHANGE
+      target: _blank
+    - icon: github
+      href: https://github.com/yourgithub             # CHANGE
+      target: _blank
+    - text: "<i class='fa-brands fa-orcid'></i>"
+      href: https://orcid.org/0000-0000-0000-0000     # CHANGE
+      target: _blank
+    - text: "<i class='fa-brands fa-google-scholar'></i>"
+      href: https://scholar.google.com/citations?user=YOURID  # CHANGE
+      target: _blank
+---
+
+## Welcome to my website!
+
+{{< include /chunks/intro.qmd >}}
+
+#### Research Focus:
+
+1. **Topic One**: Brief description of your first research area, linking to a relevant [project](/projects/2024-example-project).
+
+2. **Topic Two**: Brief description of your second research area and its significance.

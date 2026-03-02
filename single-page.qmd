@@ -1,0 +1,51 @@
+---
+title: "About"
+open-graph:
+  description: "Short bio and expertise of Your Name"   # CHANGE
+---
+
+![](/images/about.png){fig-align="center" width="800"}
+
+{{< include /chunks/intro.qmd >}}
+
+Check out my **Resume** and **CV** here:
+
+<center>
+<a href="resume.pdf" class="btn btn-primary" role="button" target="_blank" style="width: 140px; margin: 5px;"><i class="bi bi-person-badge"></i> Resume </a>
+<a href="cv.pdf" class="btn btn-primary" role="button" target="_blank" style="width: 140px; margin: 5px;"><i class="bi bi-file-earmark-text"></i> CV </a>
+</center>
+
+### [**Projects**](listing-grid.qmd)
+
+Brief description of your research focus and how your projects are funded or motivated.
+
+1. **Research Area One**: Description of your first main project or research thrust.
+
+2. **Research Area Two**: Description of your second main project or research thrust.
+
+### Other Sections
+
+- [**Blog**](listing-default.qmd): Write blog posts on topics related to your research or tools you use and build.
+- [**Papers**](papers.qmd): Collect your publications here, including journal papers, conference papers, and preprints.
+- [**Talks**](talks.qmd): Collect your conference talks here, including slides and posters.
+
+## Expertise
+
+#### Degrees
+
+- (Ongoing) **Ph.D.** - *Doctor of Philosophy* in [Your Field](https://yourprogram.edu) at [Your University](https://youruniversity.edu).
+- **M.S.** - *Master of Science* in Your Field at [Your University](https://youruniversity.edu).
+- **B.S.** - *Bachelor of Science* in Your Field at [Your University](https://youruniversity.edu).
+
+#### Skills
+
+{{< include /chunks/skills.qmd >}}
+
+#### Languages
+
+- Your native language - Native
+- English - Proficient
+
+## Personal Life
+
+A short personal note — where you're based, your interests, or whatever you'd like to share.
