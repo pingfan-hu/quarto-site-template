@@ -4,7 +4,7 @@
 .Rhistory
 _site
 site_libs
-/.claude/
+/.claude/settings.local.json
 .env
 /.luarc.json
 **/*.quarto_ipynb
